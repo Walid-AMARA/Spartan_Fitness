@@ -1,5 +1,5 @@
 # Spartan Fitness
-An android application project for fitness exercises, diet, coaching and gym management.
+An android application project for fitness exercises, diet, coaching and gym management. Developed using Android studio Java. 
 ## Design
 The App's Design's theme was based on the Greek / Spartan architecture
 The app has all the CRUD operations, you can add modify and delete new exercises, diet routines, hier a coach and navigate nearby gyms. 
